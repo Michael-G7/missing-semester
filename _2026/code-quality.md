@@ -4,7 +4,7 @@ title: "Code Quality"
 description: >
   Learn about formatting, linting, testing, continuous integration, and more.
 thumbnail: /static/assets/thumbnails/2026/lec9.png
-date: 2026-01-23
+date: 2026-01-25
 ready: true
 video:
   aspect: 56.25
